@@ -1,10 +1,3 @@
-// Trying to fix app crashing on Heroku with this patch of code
-<<<<<<< HEAD
-// const PORT = process.env.PORT || 3000; apparently that crashes it even more.
-=======
-const PORT = process.env.PORT || 3000;
->>>>>>> b0fcbffe863f5ce64bc324aaf111b78fa098ed26
-
 // Connecting general dependencies 
 
 require('dotenv').config();
