@@ -12,8 +12,6 @@ const audio = require('./audio')
 
 console.log('Bot has been started ')
 
-const PORT = process.env.PORT || 3000;
-
 // Initializing Firebase
 const app = firebase.initializeApp({
     apiKey: "AIzaSyBZiGQXKBM6MDIyScHJGdCHoiZCiLiLXSQ",
