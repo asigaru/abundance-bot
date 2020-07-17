@@ -33,7 +33,7 @@ const audio = require('./audio')
 console.log('Bot has been started ')
 
 // Initializing Firebase
-const app = firebase.initializeApp({
+const appFb = firebase.initializeApp({
     apiKey: "AIzaSyBZiGQXKBM6MDIyScHJGdCHoiZCiLiLXSQ",
     authDomain: "abundancebot.firebaseapp.com",
     databaseURL: "https://abundancebot.firebaseio.com",
