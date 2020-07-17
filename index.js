@@ -1,3 +1,5 @@
+// Trying to fix app crashing on Heroku with this patch of code
+const PORT = process.env.PORT || 3000;
 
 // Connecting general dependencies 
 
@@ -7,12 +9,13 @@ const firebase = require ('firebase')
 const TelegramBot = require('node-telegram-bot-api')
 
 // Connecting internal data files and development scripts
-
 // const debug = require('./helpers')
 const tasks = require('./tasks')
 const audio = require('./audio')
 
 console.log('Bot has been started ')
+
+const PORT = process.env.PORT || 3000;
 
 // Initializing Firebase
 const app = firebase.initializeApp({
@@ -80,6 +83,7 @@ async function getDate( id ) {
     dateNow = Date.now();
     let diff = dateNow - date;
 
+// Some console logs left for development purposes and troubleshooting
     console.log('date now is ' + dateNow);
     console.log('Past date is ' + date);
     console.log('Time difference is');
