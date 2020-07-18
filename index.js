@@ -103,7 +103,7 @@ async function getDate( id ) {
     console.log('Time difference is');
     console.log(diff);
     
-    if (diff >= 86400000) {
+    if (diff <= 86400000) {
        loadData( id );
     } else {
         bot.sendMessage(id, 'You were too late. Type /begin to start again.');
