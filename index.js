@@ -3,21 +3,20 @@
 var express = require('express');
 var packageInfo = require('./package.json');
 
-var app = express();
+var appExp = express();
 
-app.get('/', function (req, res) {
+appExp.get('/', function (req, res) {
   res.json({ version: packageInfo.version });
 });
 
-var server = app.listen(process.env.PORT, function () {
+var server = appExp.listen(process.env.PORT, function () {
   var host = server.address().address;
   var port = server.address().port;
 
   console.log('Web server started at http://%s:%s', host, port);
 });
 
-require('./bot');
-require('./web');
+
 // Connecting general dependencies 
 
 require('dotenv').config();
@@ -33,7 +32,7 @@ const audio = require('./audio')
 console.log('Bot has been started ')
 
 // Initializing Firebase
-const appFb = firebase.initializeApp({
+ const app = firebase.initializeApp({
     apiKey: "AIzaSyBZiGQXKBM6MDIyScHJGdCHoiZCiLiLXSQ",
     authDomain: "abundancebot.firebaseapp.com",
     databaseURL: "https://abundancebot.firebaseio.com",
@@ -42,7 +41,7 @@ const appFb = firebase.initializeApp({
     messagingSenderId: "291151949330",
     appId: "1:291151949330:web:ce46e6a89986e24f63f2cb",
     measurementId: "G-0RBR9YEX3V"
-});
+}); 
 
 // Pointing Firebase DataBase references to variables
 const ref = firebase.database().ref();
