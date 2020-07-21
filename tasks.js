@@ -58,7 +58,7 @@ That's all for today.
 Monday is the first day of our joint 21-day journey! 
 I am so excited and honoured to be on this journey together! 
 
-Enjoy the rest of your day. I'm happy that you are in this group with me. Much love! 💕😘`
+Enjoy the rest of your day. I'm happy that you are in this group with me. Much love! 💕😘`;
 
 tasks[1] = `Day 1
 
@@ -129,9 +129,9 @@ Remember it during the day.
 
 4. You have 24 hours to complete the task and the meditation. 
 
-Enjoy your wonderful day! 💜`
- 
-tasks [2] = `✨ Day 2 ✨
+Enjoy your wonderful day! 💜`;
+
+tasks[2] = `✨ Day 2 ✨
 
 Welcome to the second day! I hope you're enjoying the flow so far!! 
 
@@ -174,9 +174,9 @@ Aham Bramasmi
 
 Answer the question: “What does abundance mean to me?” If you want, you can write the answer in your notebook.
 
-May the energy of abundance of this beautiful group continue to grow and fill us all! 💜⭐`
+May the energy of abundance of this beautiful group continue to grow and fill us all! 💜⭐`;
 
-tasks [3] = `✨Day 3 - Mind, Matter and Spirit ✨
+tasks[3] = `✨Day 3 - Mind, Matter and Spirit ✨
 
 Welcome to the third day!
  
@@ -214,9 +214,9 @@ Sat Chit Ananda
 
 After you complete the assignment, report in the group "Day 3 done" in 24 hours. 
 
-Enjoy your beautiful day! 💜⭐`
+Enjoy your beautiful day! 💜⭐`;
 
-tasks [4] = `Day 4 - Pure Consciousness
+tasks[4] = `Day 4 - Pure Consciousness
 
 Welcome to Day Four.
 
@@ -251,9 +251,9 @@ QUESTION #2: How can you bring this awareness into your everyday life?
 
 QUESTION #3: How has the practice of meditation helped you connect with your pure consciousness?
 
-Have a great meditation and an abundant day. ⭐`
+Have a great meditation and an abundant day. ⭐`;
 
-tasks [5] = `✨ Day 5 - The Field of all possibilities ✨
+tasks[5] = `✨ Day 5 - The Field of all possibilities ✨
 
 Today is a good one AND an important development to our process so far.
 
@@ -330,9 +330,9 @@ Also today there is no other written assignment, other than rewriting the phrase
 
 Tomorrow we will continue to work in the notebook.
 
-Have a splendid day! 💜`
+Have a splendid day! 💜`;
 
-tasks [6] = `Day 6 - The Seeds of Success 💫
+tasks[6] = `Day 6 - The Seeds of Success 💫
 
 Congratulations to all of you who have already created your own abundance groups! 💗 Sharing abundance is beautiful. 
 
@@ -389,9 +389,9 @@ You have 24 hours – give or take – to complete this task.
 
 You all are doing amazing! 💗
 
-Keep it up and have a wonderful day! 💜💫🌸`
+Keep it up and have a wonderful day! 💜💫🌸`;
 
-tasks [7] = `✨ Day 7 - Spontaneous Fulfillment of Desire ✨
+tasks[7] = `✨ Day 7 - Spontaneous Fulfillment of Desire ✨
 
 Now that you're wired for success, here is another powerful meditation and task! 
 
@@ -422,9 +422,9 @@ Remember that these people may trigger you, and at the same time, may also be yo
 Sat Chit Ananda
 Sat Chit Ananda
 
-Also, congratulations! We have been on the road for a week now!!! Woohoo! 🥳❤️`
+Also, congratulations! We have been on the road for a week now!!! Woohoo! 🥳❤️`;
 
-tasks [8] = `✨ Day 8 - Abundance and the Law of Pure potentiality ✨
+tasks[8] = `✨ Day 8 - Abundance and the Law of Pure potentiality ✨
 
 *Task*
 Find at least 5 receipts of recent purchases. Write on each of them: "All that is invested is good and will return to itself seven times."
@@ -446,9 +446,9 @@ Om Bhawan Nama
 
 You have 24 hours ~ give or take ~ to complete this task.
 
-Have a beautiful start to your week. 💫`
+Have a beautiful start to your week. 💫`;
 
-tasks [9] = `✨ Day 9 - Abundance and the Law of Giving ✨
+tasks[9] = `✨ Day 9 - Abundance and the Law of Giving ✨
 
 *Task*
 Write 5 of your shortcomings / flaws that limit you in your notebook. The traits that do not allow you to receive what you want materially or in any aspect of abundance. 
@@ -464,9 +464,9 @@ And, of course, there is a pleasant and useful meditation for you.
 Om Vardanam Nama
 Om Vardanam Nama
 
-Have a beautiful day! 💜`
+Have a beautiful day! 💜`;
 
-tasks [10] = `✨ Day 10 - Abundance and the Law of Karma ✨
+tasks[10] = `✨ Day 10 - Abundance and the Law of Karma ✨
 
 *Task*
 From yesterday, choose two from your list, perhaps the two that you feel limit you the most.
@@ -510,9 +510,9 @@ QUESTION No. 2: How have your decisions affected your life?
  
 QUESTION No. 3: How can you make a more conscious choice?
 
-Have a beautiful and productive day! 🤗`
+Have a beautiful and productive day! 🤗`;
 
-tasks [11] = `✨ Day 11 - Abundance and the Law of Least Effort ✨
+tasks[11] = `✨ Day 11 - Abundance and the Law of Least Effort ✨
 
 In today's meditation, we will look at the Law of Least Effort and how it can support you in being unattached to the outcome of your deepest desires and intentions. 
 
@@ -548,9 +548,9 @@ For some, this task will not be easy. If this is the case - while doing it, try 
 *Mantra*
 Om Daksham Nama
 
-Have a beautiful day! 💫`
+Have a beautiful day! 💫`;
 
-tasks [12] = `✨ Day 12 - Abundance and the Law of Intent and Desire ✨
+tasks[12] = `✨ Day 12 - Abundance and the Law of Intent and Desire ✨
 
 *Message*
 Attention energizes; intention transforms. In today's meditation, we will look at the Law of Intent and Desire.
@@ -583,9 +583,9 @@ If your mother is no longer with you or you are unable to ask her personally, go
  Om Mritham Nama
  Om Mritham Nama
 
-Have a fabulous Day! ⭐`
+Have a fabulous Day! ⭐`;
 
-tasks [13] = `✨ Day 13 - Abundance and the Law of Detachment ✨
+tasks[13] = `✨ Day 13 - Abundance and the Law of Detachment ✨
 
 *Message*
 Today we will learn how to relinquish the need to get a certain result. We will learn the Law of Detachment. 
@@ -625,9 +625,9 @@ Listen to today's meditation, recommended a couple of times.
 Om Anadham Nama
 Om Anadham Nama
 
-Have a wonderful day everyone!  💎`
+Have a wonderful day everyone!  💎`;
 
-tasks [14] = `✨ Day 14 - Abundance and the Law of Dharma ✨
+tasks[14] = `✨ Day 14 - Abundance and the Law of Dharma ✨
 
 *Message*
 Abundance and the Law of Dharma
@@ -668,9 +668,9 @@ Think of examples such as helping a friend, showing your power over others, etc.
 Om Varunam Nama
 Om Varunam Nama
 
-Have a beautiful day! ✨`
+Have a beautiful day! ✨`;
 
-tasks [15] = `✨ Day 15 - Living Synchrodestiny ✨
+tasks[15] = `✨ Day 15 - Living Synchrodestiny ✨
 
 *Task*
 Write a letter of gratitude and recognition to a person who you think hurt you at some point in life.
@@ -694,9 +694,9 @@ Write this letter on a piece of paper. Writing by hand for this exercise is impo
 Aham Bramasmi
 Aham Bramasmi
 
-Let your day be filled with joy, happiness and beautiful events! Enjoy the start to the third and final week of this JOURNEY! ⭐`
+Let your day be filled with joy, happiness and beautiful events! Enjoy the start to the third and final week of this JOURNEY! ⭐`;
 
-tasks [16] = `✨ Day 16 - Living Gratefully ✨
+tasks[16] = `✨ Day 16 - Living Gratefully ✨
 
 *Task*
 Make a list of things that you wanted to do, but postponed. This could be because of other priorities or because of fear of hurting someone, or failing. Regardless of the reason, these are things that you still plan on doing. 
@@ -718,9 +718,9 @@ Write down everything you want, without limitation.
 Om Vardhanam Nama
 Om Vardhanam Nama 
 
-Have a Beautiful and Prosperous day! 💜⭐`
+Have a Beautiful and Prosperous day! 💜⭐`;
 
-tasks [17] = `✨ Day 17 - Living Carefree ✨
+tasks[17] = `✨ Day 17 - Living Carefree ✨
 
 *Task*
 Today’s task is a really beautiful one.
@@ -765,9 +765,9 @@ Throughout life, you will begin to look at everyday circumstances easily and mee
 
 •Question No. 3: How can you switch your mind to spread the love and joy that you feel in your heart right now?
 
-Sending you love and best wishes of health and joy! 💜⭐`
+Sending you love and best wishes of health and joy! 💜⭐`;
 
-tasks [18] = `✨ Day 18 - Living Unity ✨
+tasks[18] = `✨ Day 18 - Living Unity ✨
 
 We are almost there!
 
@@ -809,9 +809,9 @@ This relationship contributes to deep love and empathy for everyone who surround
 
 •QUESTION No. 3: How did meditation help you realize the idea of living in unity?
 
-Have a beautiful and bright day! 🙌`
+Have a beautiful and bright day! 🙌`;
 
-tasks [19] = `✨ Day 19 - Living Love ✨
+tasks[19] = `✨ Day 19 - Living Love ✨
 
 *Task*
 Read the Persian Fable below, perhaps a couple of times and then note down your thoughts and feelings in your notebook.
@@ -868,9 +868,9 @@ Then write here in the group what thoughts and feelings you have about the meani
 Sat Chit Ananda
 Sat Chit Ananda
 
-Have an abundant day! ☀💜`
+Have an abundant day! ☀💜`;
 
-tasks [20] = `✨ Day 20 - Living Luxury ✨
+tasks[20] = `✨ Day 20 - Living Luxury ✨
 
 *Task:*
 Scroll through your  journal, read the tasks you've performed.
@@ -902,9 +902,9 @@ When you feel that you are worthy to receive all the blessings that the Universe
 *Mantra:*
 Om Ritam Nama
 
-Enjoy your penultimate day on this journey! 👑💜`
+Enjoy your penultimate day on this journey! 👑💜`;
 
-tasks [21] = `✨ Day 21 - Living Abundantly ✨
+tasks[21] = `✨ Day 21 - Living Abundantly ✨
 
 Here we are. Day 21 - the last day of this journey together. 
 
@@ -965,6 +965,6 @@ Use all of your creative abilities, describing yourself and your experience. �
 *Mantra*
 So Ham
 
-Enjoy your coming days! 💖`
+Enjoy your coming days! 💖`;
 
-module.exports = tasks
+module.exports = tasks;
