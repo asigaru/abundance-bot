@@ -64,7 +64,7 @@ bot.onText(/\/begin/, (msg) => {
   usersRef.child(id).set({
     name: msg.from.first_name,
     day: 1,
-    date: msg.date,
+    date: Date.now(),
   });
   bot.sendMessage(
     id,
