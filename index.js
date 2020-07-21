@@ -141,9 +141,7 @@ function loadData(id) {
 // RegExp trigger for sending daily task and updating DB entry
 bot.onText(/\/ready/, (msg) => {
   const { id } = msg.chat;
-  const time = msg.date;
-  console.log(time);
-
+  const time = Date.now();
   getDate(id, time);
   console.log("TIME VALUE in .ready trigger is " + time);
 });
