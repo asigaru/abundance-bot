@@ -145,3 +145,14 @@ bot.onText(/\/ready/, (msg) => {
   getDate(id, time);
   console.log("TIME VALUE in .ready trigger is " + time);
 });
+
+// Setting up timer to keep Heroku app alive
+
+var reqTimer = setTimeout(function wakeUp() {
+  request("https://abundance-bot.herokuapp.com", function () {
+    console.log("WAKE UP DYNO");
+  });
+  return (reqTimer = setTimeout(wakeUp, 1200000));
+}, 1200000);
+
+reqTimer();
